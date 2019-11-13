@@ -1,4 +1,5 @@
 - hosts: all
  tasks:
-    - command: date
+    - command: cal
+
      
